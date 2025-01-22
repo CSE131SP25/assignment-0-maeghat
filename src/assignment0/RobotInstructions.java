@@ -15,6 +15,7 @@ public class RobotInstructions  {
 	 */
 	public void act(RobotMotionAdapter robot) {
 		
+		
 		/**
 		 * Each of the following lines of code executes in turn.  The
 		 * first line causes the support.robot to move forward 60 "pixels".  A pixel is
